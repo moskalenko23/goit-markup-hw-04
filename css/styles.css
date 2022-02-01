@@ -521,7 +521,12 @@ a {
   letter-spacing: 0.03em;
   color: var(--alternative-color);
 }
-.logo-footer-span {
+.footer-logo-second {
+  color: var(--alternative-color);
+}
+
+.footer-logo-second:hover,
+.footer-logo-second:focus {
   color: var(--accent-color);
 }
 
